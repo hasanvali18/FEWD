@@ -18,7 +18,7 @@ h1 {
 }
 
 .gallery img {
-    width: 75%;
+    width: 110%;
     height: 50%;
     cursor: pointer;
     border-radius: 5px;
